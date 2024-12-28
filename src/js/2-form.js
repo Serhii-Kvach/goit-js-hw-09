@@ -1,4 +1,4 @@
-const feedbackFormEl = document.querySelector('.feedback-form');
+const feedbackFormEl = document.querySelector('.form');
 
 let formData = {
   email: '',

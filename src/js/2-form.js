@@ -46,4 +46,4 @@ const btnFormSubmit = event => {
 };
 
 feedbackFormEl.addEventListener('input', funformInput);
-feedbackFormEl.addEventListener('input', funformInput);
+feedbackFormEl.addEventListener('submit', btnFormSubmit);
